@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: byungicom@naver.com
 copyright_name: byungicom
 description: "생각을 배설하라"
-baseurl: "/myblog"
+baseurl: "http://sjs1178.github.io/myblog"
 url: "http://sjs1178.github.io"
 twitter_username: byungicom
 github_username:  sjs1178
