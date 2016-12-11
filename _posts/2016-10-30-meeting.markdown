@@ -1,0 +1,10 @@
+---
+layout:     post
+title:      "고민중"
+subtitle:	"소상공 컨설팅"
+date:       2016-10-30 12:00:00
+author:     "송진석"
+header-img: "img/post-bg-02.jpg"
+---
+
+<p>소상공 컨설팅 - 참기름 집 - 수선집 - 성수동 구두집</p>
