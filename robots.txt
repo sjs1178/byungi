@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://sjs1178.github.io/sitemap.xml
