@@ -4,11 +4,11 @@ title:      "마이뮤즐리: 맛있고 건강한 식사"
 subtitle:	"이런게 진짜 뮤즐리라니..."
 date:       2017-01-07 09:05:23
 author:     "송진석"
-header-img: "img/topview.jpg"
+header-img: "img/topview_cover.jpg"
 ---
 
 <p>	
-"마이뮤즐리"</p>
+<h1>"마이뮤즐리"<h1></p>
 <p>
 1. 구매/배송
 뮤즐리가 뭔가
