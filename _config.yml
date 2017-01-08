@@ -1,7 +1,7 @@
 # Site settings
 title: 변기닷컴 Blog
 header-img: img/home-bg.jpg
-email: byungicom@naver.com
+email: byungicom@gmail.com
 copyright_name: byungicom
 description: "생각을 배설하라"
 baseurl: "https://sjs1178.github.io"
@@ -9,7 +9,7 @@ url: "https://sjs1178.github.io"
 twitter_username: byungicom
 github_username:  sjs1178
 facebook_username:  byungicom
-email_username:  byungicom@naver.com
+email_username:  byungicom@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
