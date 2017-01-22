@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://blog.byungi.com/sitemap.xml
+Sitemap: https://sjs1178.github.io/sitemap.xml
